@@ -1,0 +1,14 @@
+*#
+=======
+*.swp
+*~
+*.log
+*.out
+*.config
+*.zip
+*.pyc
+*.bat
+*.json
+temp.*
+/reports/*
+*GoogleNews*

@@ -1,0 +1,7 @@
+setup.py
+sink_parser/__init__.py
+sink_parser.egg-info/PKG-INFO
+sink_parser.egg-info/SOURCES.txt
+sink_parser.egg-info/dependency_links.txt
+sink_parser.egg-info/requires.txt
+sink_parser.egg-info/top_level.txt

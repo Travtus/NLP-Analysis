@@ -1,0 +1,507 @@
+<Collection>
+<TokenSequence><noise>a</noise> <location>apartment</location> <action>prep</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <location>apt</location> <action>prep</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>change</action> <object>cylinder</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>connect</action> <object>stove</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>nov</noise> <action>sent</action> <noise>1</noise> <noise>1</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>nov</noise> <action>sent</action> <noise>1</noise> <noise>18</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>paint</action> <location>apt</location> <object>door</object> <conjunction>and</conjunction> <action>prep</action> <location>apartment</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>paint</action> <description>colored</description> <action>paint</action> <description>in</description> <noise>1st</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>paint</action> <description>with</description> <noise>li</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <description>properly</description> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>re</noise> <description>rent</description> <action>remove</action> <noise>stick</noise> <description>on</description> <object>tiles</object> <location>kitchen</location> <noise>pre</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>refit</action> <object>wind</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <action>remove</action> <numerator>2</numerator> <object>window</object> <object>guards</object> <conjunction>and</conjunction> <action>paint</action> <object>the</object> <object>wind</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <location>staircase</location> <action>street</action> <location>level</location> <object>door</object> <description>needs</description> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <description>tenant</description> <description>moved</description> <description>in</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2005</noise> <noise>adm</noise> <noise>code</noise> <action>paint</action> <object>metal</object> <description>in</description> <description>accordance</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2005</noise> <noise>adm</noise> <noise>code</noise> <description>properly</description> <action>repair</action> <description>with</description> <description>simil</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2005</noise> <noise>adm</noise> <noise>code</noise> <action>refit</action> <object>door</object> <description>to</description> <description>hinge</description> <description>to</description> <description>low</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2005</noise> <noise>adm</noise> <noise>code</noise> <action>refit</action> <noise>the</noise> <description>closet</description> <object>doors</object> <description>in</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2005</noise> <noise>adm</noise> <noise>code</noise> <action>repair</action> <noise>the</noise> <description>broken</description> <conjunction>or</conjunction> <description>defec</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2013</noise> <noise>adm</noise> <noise>code</noise> <action>paint</action> <description>with</description> <description>light</description> <description>colored</description> <description>p</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2026</noise> <noise>2027</noise> <noise>hmc</noise> <description>properly</description> <action>repair</action> <noise>the</noise> <object>sour</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2046</noise> <noise>1</noise> <noise>hmc</noise> <action>post</action> <noise>a</noise> <description>proper</description> <description>notice</description> <description>of</description> <description>carb</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>27</noise> <noise>2104</noise> <noise>adm</noise> <noise>code</noise> <action>post</action> <conjunction>and</conjunction> <action>maintain</action> <noise>a</noise> <description>proper</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>5</noise> <noise>d</noise> <object>lock</object> <description>out</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <conjunction>and</conjunction> <location>h</location> <location>line</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <conjunction>and</conjunction> <action>h</action> <location>line</location> <action>35th</action> <location>floor</location> <description>emergency</description> <action>water</action> <action>shut</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <conjunction>and</conjunction> <action>k</action> <location>line</location> <location>building</location> <description>leak</description> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <location>apartment</location> <action>prep</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <location>apt</location> <action>prep</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>sleeve</object> <description>leaking</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <action>back</action> <object>grill</object> <action>needed</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <object>grill</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>in</description> <description>l</description> <location>r</location> <description>caved</description> <description>in</description> <description>has</description> <noise>a</noise> <description>dent</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <action>install</action> <description>properly</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>need</description> <description>to</description> <description>be</description> <action>reinstalled</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>needed</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>needed</description> <description>cold</description> <description>air</description> <description>coming</description> <description>through</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>needed</description> <description>in</description> <location>bdrm</location> <location>l</location> <location>r</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>needed</description> <description>at</description> <object>window</object> <description>also</description> <description>appears</description> <description>to</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>cover</object> <description>needed</description> <description>for</description> <location>l</location> <location>r</location> <conjunction>and</conjunction> <numerator>3</numerator> <location>bdr</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <location>hallway</location> <description>needs</description> <object>light</object> <object>fixture</object> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <description>needed</description> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <description>needed</description> <noise>pte</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <description>needed</description> <description>in</description> <numerator>2</numerator> <location>bdrms</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <description>needed</description> <description>in</description> <location>apt</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <description>needed</description> <description>in</description> <location>bdrm</location> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>covers</object> <description>needed</description> <description>in</description> <location>unit</location> <noise>not</noise> <noise>sure</noise> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>grill</object> <object>cover</object> <action>needed</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>grill</object> <action>needed</action> </TokenSequence>
+<TokenSequence><noise>a</noise> <noise>c</noise> <object>grill</object> <action>needed</action> <description>in</description> <location>lr</location> <location>bedroom</location> </TokenSequence>
+<TokenSequence><object>ac</object> <object>sleeve</object> <action>remove</action> <object>cover</object> </TokenSequence>
+<TokenSequence><action>ac</action> <object>sleeve</object> <action>repair</action> </TokenSequence>
+<TokenSequence><action>ac</action> <object>sleeve</object> <action>repair</action> <action>replace</action> </TokenSequence>
+<TokenSequence><action>ac</action> <object>unit</object> <object>cover</object> <action>iinsulate</action> </TokenSequence>
+<TokenSequence><action>ac</action> <object>unit</object> <description>electrical</description> <object>outlet</object> <action>repair</action> </TokenSequence>
+<TokenSequence><action>access</action> <object>panel</object> <description>next</description> <description>to</description> <object>elevator</object> <action>scrap</action> <conjunction>and</conjunction> <action>pain</action> </TokenSequence>
+<TokenSequence><action>access</action> <noise>to</noise> <action>check</action> <description>for</description> <description>leak</description> <description>going</description> <description>below</description> <description>to</description> <location>apt</location> </TokenSequence>
+<TokenSequence><action>access</action> <noise>to</noise> <action>check</action> <description>for</description> <description>leak</description> <description>inside</description> <noise>the</noise> <location>wall</location> </TokenSequence>
+<TokenSequence><action>adjust</action> <location>hot</location> <description>water</description> <description>at</description> <location>shower</location> </TokenSequence>
+<TokenSequence><action>adjust</action> <location>hot</location> <description>water</description> <location>coming</location> <analysis>from</analysis> <location>shower</location> </TokenSequence>
+<TokenSequence><action>adjust</action> <description>hot</description> <description>water</description> <description>pressure</description> </TokenSequence>
+<TokenSequence><action>adjust</action> <location>kitchen</location> <object>cabinet</object> </TokenSequence>
+<TokenSequence><action>adjust</action> <location>kitchen</location> <object>faucet</object> </TokenSequence>
+<TokenSequence><action>adjust</action> <location>kitchen</location> <object>faucet</object> <description>leaking</description> </TokenSequence>
+<TokenSequence><noise>adm</noise> <noise>code</noise> <conjunction>and</conjunction> <description>dept</description> <description>rules</description> <conjunction>and</conjunction> <description>regulati</description> </TokenSequence>
+<TokenSequence><noise>adm</noise> <noise>code</noise> <action>paint</action> <description>with</description> <description>light</description> <description>colored</description> <description>pai</description> </TokenSequence>
+<TokenSequence><conjunction>air</conjunction> <object>condition</object> <description>in</description> <conjunction>living</conjunction> <location>room</location> <description>that</description> <description>is</description> <description>old</description> <conjunction>and</conjunction> </TokenSequence>
+<TokenSequence><action>air</action> <object>conditioner</object> <object>fan</object> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>air</noise> <object>conditioner</object> <object>holder</object> <object>cover</object> <action>repair</action> <noise>w</noise> <noise>o</noise> <noise>0</noise> <noise>38</noise> </TokenSequence>
+<TokenSequence><numerator>all</numerator> <location>closet</location> <object>doors</object> <description>off</description> <description>track</description> </TokenSequence>
+<TokenSequence><numerator>all</numerator> <object>cover</object> <location>hallway</location> <object>light</object> <description>are</description> <description>missing</description> </TokenSequence>
+<TokenSequence><numerator>all</numerator> <description>day</description> <action>tour</action> <description>starting</description> <description>at</description> <description>9am</description> </TokenSequence>
+<TokenSequence><numerator>all</numerator> <object>drains</object> <description>clogged</description> </TokenSequence>
+<TokenSequence><analysis>alleged</analysis> <description>mold</description> <description>mildew</description> <description>behind</description> <object>toilet</object> </TokenSequence>
+<TokenSequence><analysis>alleged</analysis> <description>mold</description> <description>mildew</description> <description>in</description> <location>bathrooms</location> </TokenSequence>
+<TokenSequence><location>apartment</location> <location>front</location> <object>door</object> <object>handle</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>apartment</location> <location>front</location> <object>door</object> <object>hinges</object> </TokenSequence>
+<TokenSequence><location>apartment</location> <numerator>radiator</numerator> <object>valve</object> <action>replace</action> <numerator>3</numerator> </TokenSequence>
+<TokenSequence><location>apartment</location> <description>radiators</description> <object>repair</object> <description>excluding</description> </TokenSequence>
+<TokenSequence><location>apartment</location> <description>radiators</description> <object>repair</object> <description>throughout</description> </TokenSequence>
+<TokenSequence><location>apartment</location> <object>refridgerator</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>apartment</location> <description>rented</description> <description>for</description> <description>today</description> <location>4e</location> </TokenSequence>
+<TokenSequence><location>apt</location> <location>27a</location> <action>install</action> <object>heaters</object> <numerator>2</numerator> <description>3ft</description> <conjunction>and</conjunction> <numerator>1</numerator> <description>5ft</description> </TokenSequence>
+<TokenSequence><location>apt</location> <location>27a</location> <action>install</action> <object>heaters</object> <description>in</description> <location>apt</location> <numerator>2</numerator> <description>3ft</description> <numerator>1</numerator> <description>5ft</description> </TokenSequence>
+<TokenSequence><location>apt</location> <location>27a</location> <action>replace</action> <object>vanity</object> </TokenSequence>
+<TokenSequence><location>apt</location> <location>27a</location> <action>shave</action> <location>bedroom</location> <object>door</object> </TokenSequence>
+<TokenSequence><object>as</object> <analysis>per</analysis> <description>anthony</description> <action>replace</action> <object>waste</object> <object>bend</object> </TokenSequence>
+<TokenSequence><object>as</object> <analysis>per</analysis> <description>carlos</description> <action>install</action> <object>stove</object> <object>fridge</object> <conjunction>and</conjunction> <object>micro</object> </TokenSequence>
+<TokenSequence><action>attach</action> <object>cabinet</object> <description>back</description> <description>to</description> <description>wall</description> <description>in</description> <location>kitchen</location> </TokenSequence>
+<TokenSequence><action>attach</action> <object>heater</object> <object>covers</object> <action>attach</action> <object>ac</object> <object>covers</object> </TokenSequence>
+<TokenSequence><noise>b10403284</noise> <action>repair</action> <description>bathtub</description> <object>faucet</object> <description>leak</description> </TokenSequence>
+<TokenSequence><noise>b10405830</noise> <action>repair</action> <description>defective</description> <action>plastered</action> </TokenSequence>
+<TokenSequence><noise>b10405832</noise> <action>replace</action> <action>repair</action> <description>missing</description> <noise>de</noise> </TokenSequence>
+<TokenSequence><location>back</location> <location>to</location> <analysis>back</analysis> <description>stoppage</description> <description>with</description> <location>c19h</location> </TokenSequence>
+<TokenSequence><description>back</description> <description>to</description> <analysis>back</analysis> <object>tub</object> <description>clog</description> <location>kitchen</location> <object>sink</object> <description>clog</description> <description>wit</description> </TokenSequence>
+<TokenSequence><description>back</description> <description>to</description> <analysis>back</analysis> <object>tub</object> <description>stoppage</description> </TokenSequence>
+<TokenSequence><location>backyard</location> <object>lights</object> <action>not</action> <description>working</description> <action>replace</action> </TokenSequence>
+<TokenSequence><location>balcony</location> <object>door</object> <object>handle</object> <object>lock</object> </TokenSequence>
+<TokenSequence><location>balcony</location> <description>door</description> <object>handle</object> <description>missing</description> <noise>a</noise> <description>screw</description> </TokenSequence>
+<TokenSequence><location>balcony</location> <noise>door</noise> <description>hard</description> <description>to</description> <description>open</description> <object>door</object> <conjunction>also</conjunction> <action>need</action> <noise>a</noise> <noise>h</noise> </TokenSequence>
+<TokenSequence><location>basement</location> <location>bathroom</location> <object>toilet</object> <action>install</action> </TokenSequence>
+<TokenSequence><location>basement</location> <noise>boiler</noise> <location>room</location> <action>clean</action> <noise>out</noise> </TokenSequence>
+<TokenSequence><location>basement</location> <action>boiler</action> <location>room</location> <action>repair</action> </TokenSequence>
+<TokenSequence><location>basement</location> <location>ceiling</location> <description>leak</description> <action>repair</action> </TokenSequence>
+<TokenSequence><description>basin</description> <object>faucet</object> <object>handle</object> <description>loose</description> </TokenSequence>
+<TokenSequence><description>basin</description> <object>faucet</object> <description>is</description> <description>leaking</description> <description>water</description> <description>wont</description> <description>shut</description> <description>off</description> </TokenSequence>
+<TokenSequence><description>basin</description> <object>faucet</object> <noise>keeps</noise> <description>running</description> </TokenSequence>
+<TokenSequence><location>bath</location> <object>sink</object> <description>clogged</description> </TokenSequence>
+<TokenSequence><location>bath</location> <object>sink</object> <description>leak</description> </TokenSequence>
+<TokenSequence><location>bath</location> <object>sink</object> <description>leaking</description> </TokenSequence>
+<TokenSequence><location>bath</location> <object>sink</object> <description>off</description> <location>wall</location> <noise>put</noise> <action>back</action> <noise>on</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <location>kitchen</location> <object>sink</object> <description>leak</description> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <location>kitchen</location> <object>sink</object> <description>leak</description> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>light</object> <description>is</description> <description>not</description> <description>working</description> <noise>he</noise> <noise>changed</noise> <noise>t</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>living</object> <location>room</location> <object>light</object> <object>fixture</object> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>bathtub</object> <conjunction>and</conjunction> <object>sink</object> <description>clogged</description> <noise>w</noise> <noise>o</noise> <noise>0</noise> <noise>3816</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>shower</object> <description>cold</description> <action>hot</action> <description>water</description> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>shower</object> <noise>cold</noise> <description>water</description> <object>handle</object> <description>fell</description> <noise>off</noise> <noise>w</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <action>shower</action> <object>rod</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>sink</object> <conjunction>and</conjunction> <description>tub</description> <object>faucet</object> <description>leak</description> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>sink</object> <conjunction>and</conjunction> <object>tub</object> <description>is</description> <description>clogged</description> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>tiles</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>tiles</object> <action>repair</action> <action>replace</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <action>toilet</action> <object>tank</object> <object>flush</object> <noise>rod</noise> <action>replace</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <action>toilet</action> <object>tank</object> <object>handle</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>vanity</object> <action>replace</action> <noise>w</noise> <noise>o</noise> <noise>0</noise> <noise>383381</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <object>vent</object> <noise>block</noise> <action>out</action> <description>cigarette</description> <description>smell</description> <noise>comi</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <description>window</description> <object>glass</object> <description>broken</description> </TokenSequence>
+<TokenSequence><location>bathroom</location> <noise>window</noise> <object>glass</object> <description>broken</description> <noise>w</noise> <noise>o</noise> <noise>0</noise> <noise>387881</noise> </TokenSequence>
+<TokenSequence><location>bathroom</location> <description>window</description> <object>glass</object> <description>cracked</description> </TokenSequence>
+<TokenSequence><object>bathtub</object> <description>clogged</description> <location>bathroom</location> <description>door</description> <object>knob</object> <description>is</description> <description>lose</description> </TokenSequence>
+<TokenSequence><object>bathtub</object> <description>clogged</description> <action>bring</action> <noise>snake</noise> <description>all</description> <action>needed</action> <noise>she</noise> </TokenSequence>
+<TokenSequence><object>bathtub</object> <description>clogged</description> <noise>please</noise> <description>snake</description> </TokenSequence>
+<TokenSequence><location>bedroom</location> <noise>amp</noise> <location>bathroom</location> <object>walls</object> <description>cracked</description> <action>repair</action> </TokenSequence>
+<TokenSequence><location>bedroom</location> <noise>amp</noise> <description>living</description> <location>room</location> <object>ceiling</object> <description>leak</description> </TokenSequence>
+<TokenSequence><location>bedroom</location> <conjunction>and</conjunction> <location>bathroom</location> <object>windows</object> </TokenSequence>
+<TokenSequence><location>bedroom</location> <location>window</location> <object>glass</object> <description>broken</description> <description>empty</description> <location>apt</location> </TokenSequence>
+<TokenSequence><location>bedroom</location> <description>window</description> <object>glass</object> <description>cracked</description> </TokenSequence>
+<TokenSequence><action>bleed</action> <object>radiators</object> <description>heating</description> <object>pipes</object> <description>for</description> <description>noise</description> </TokenSequence>
+<TokenSequence><object>blinds</object> <description>are</description> <description>broken</description> <noise>take</noise> <action>measurements</action> <description>for</description> <noise>repl</noise> </TokenSequence>
+<TokenSequence><object>blinds</object> <description>are</description> <description>not</description> <description>opening</description> <description>closing</description> </TokenSequence>
+<TokenSequence><object>blinds</object> <description>fell</description> <description>off</description> <description>in</description> <location>kitchen</location> </TokenSequence>
+<TokenSequence><object>boiler</object> <object>tubes</object> <description>leaking</description> <description>super</description> <action>installed</action> <numerator>2</numerator> <object>plugs</object> </TokenSequence>
+<TokenSequence><description>boiler</description> <location>room</location> <object>floor</object> <action>paint</action> <description>gray</description> </TokenSequence>
+<TokenSequence><action>boiler</action> <location>room</location> <action>light</action> <object>bulb</object> <action>replace</action> </TokenSequence>
+<TokenSequence><description>broken</description> <description>inner</description> <location>lobby</location> <object>glass</object> </TokenSequence>
+<TokenSequence><description>broken</description> <location>kitchen</location> <object>cabinet</object> <object>door</object> </TokenSequence>
+<TokenSequence><description>broken</description> <object>kitchen</object> <object>faucet</object> </TokenSequence>
+<TokenSequence><location>bthrm</location> <object>sink</object> <description>clogged</description> <description>leak</description> <description>in</description> <object>drain</object> <noise>as</noise> <noise>per</noise> <noise>tnt</noise> </TokenSequence>
+<TokenSequence><location>building</location> <noise>2nd</noise> <action>door</action> <object>handle</object> <action>repair</action> <action>replac</action> </TokenSequence>
+<TokenSequence><location>building</location> <noise>2nd</noise> <action>door</action> <object>lock</object> <description>damaged</description> <action>repair</action> <action>replace</action> </TokenSequence>
+<TokenSequence><location>building</location> <action>entrance</action> <object>door</object> <object>glass</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>building</location> <object>entrance</object> <object>door</object> <object>lock</object> <action>broken</action> <object>key</object> </TokenSequence>
+<TokenSequence><location>building</location> <action>front</action> <object>door</object> <object>lock</object> <action>repair</action> </TokenSequence>
+<TokenSequence><location>building</location> <description>garbage</description> <action>removal</action> <description>from</description> <description>weekend</description> </TokenSequence>
+<TokenSequence><location>building</location> <location>hallway</location> <object>ceiling</object> <action>repair</action> <action>replace</action> </TokenSequence>
+<TokenSequence><location>building</location> <object>intercom</object> <action>repair</action> <action>replace</action> </TokenSequence>
+<TokenSequence><location>building</location> <description>intercom</description> <object>system</object> <description>not</description> <description>working</description> </TokenSequence>
+<TokenSequence><object>cabinets</object> <description>defective</description> <location>kitchen</location> <noise>awaiting</noise> <noise>i</noise> </TokenSequence>
+<TokenSequence><object>cabinets</object> <description>falling</description> <description>loose</description> <description>breaking</description> <noise>shoddy</noise> <noise>work</noise> </TokenSequence>
+<TokenSequence><object>carbon</object> <object>monoxide</object> <object>detector</object> <object>smoke</object> <object>detecto</object> </TokenSequence>
+<TokenSequence><description>carbon</description> <description>monoxide</description> <object>device</object> <description>missing</description> </TokenSequence>
+<TokenSequence><action>caulk</action> <noise>around</noise> <conjunction>and</conjunction> <description>inside</description> <object>vanity</object> <conjunction>and</conjunction> <action>seal</action> <description>hole</description> </TokenSequence>
+<TokenSequence><action>caulk</action> <noise>around</noise> <location>apt</location> </TokenSequence>
+<TokenSequence><action>caulk</action> <noise>around</noise> <object>backsplash</object> <conjunction>and</conjunction> <object>sink</object> </TokenSequence>
+<TokenSequence><action>ceiling</action> <object>fan</object> <description>electrical</description> <action>repairs</action> </TokenSequence>
+<TokenSequence><action>ceiling</action> <object>fan</object> <action>light</action> <object>bulb</object> <action>replacement</action> </TokenSequence>
+<TokenSequence><action>ceiling</action> <object>fan</object> <description>needs</description> <noise>new</noise> <object>bulb</object> <conjunction>and</conjunction> <description>needs</description> <noise>to</noise> <noise>be</noise> <action>changed</action> </TokenSequence>
+<TokenSequence><action>check</action> <numerator>2</numerator> <noise>closet</noise> <object>doors</object> <description>in</description> <location>apt</location> <noise>1</noise> <noise>d</noise> </TokenSequence>
+<TokenSequence><action>check</action> <numerator>2</numerator> <description>inoperable</description> <location>light</location> <object>fixtures</object> <description>in</description> <location>unit</location> </TokenSequence>
+<TokenSequence><action>check</action> <numerator>2</numerator> <description>leaky</description> <description>loose</description> <object>toilets</object> </TokenSequence>
+<TokenSequence><action>check</action> <location>bdrm</location> <description>door</description> <object>knob</object> <description>loose</description> </TokenSequence>
+<TokenSequence><action>check</action> <location>bedroom</location> <object>air</object> <object>condition</object> </TokenSequence>
+<TokenSequence><action>check</action> <location>bedroom</location> <description>for</description> <noise>cold</noise> <description>draft</description> <noise>coming</noise> <noise>in</noise> </TokenSequence>
+<TokenSequence><action>check</action> <description>circuit</description> <object>breaker</object> <noise>box</noise> <action>take</action> <description>pics</description> </TokenSequence>
+<TokenSequence><action>check</action> <noise>common</noise> <location>areas</location> <description>in</description> <description>entire</description> <description>building</description> <noise>includi</noise> </TokenSequence>
+<TokenSequence><action>check</action> <description>damaged</description> <object>floors</object> <description>in</description> <location>hallway</location> <noise>cau</noise> </TokenSequence>
+<TokenSequence><action>check</action> <object>dishwasher</object> <noise>inside</noise> <noise>piece</noise> <noise>that</noise> <noise>spins</noise> <noise>came</noise> </TokenSequence>
+<TokenSequence><action>check</action> <location>electrical</location> <object>cords</object> <description>of</description> <location>bedroom</location> <conjunction>and</conjunction> <location>livingr</location> </TokenSequence>
+<TokenSequence><action>check</action> <noise>for</noise> <description>broken</description> <object>door</object> </TokenSequence>
+<TokenSequence><action>check</action> <object>refrigerator</object> <description>leaking</description> <noise>water</noise> <noise>inside</noise> </TokenSequence>
+<TokenSequence><action>check</action> <object>refrigerator</object> <description>making</description> <description>noise</description> </TokenSequence>
+<TokenSequence><action>check</action> <object>refrigerator</object> <object>stove</object> </TokenSequence>
+<TokenSequence><action>check</action> <action>repair</action> <location>bathroom</location> <object>sink</object> <object>cold</object> <description>water</description> <object>knob</object> </TokenSequence>
+<TokenSequence><action>check</action> <object>stove</object> <description>smells</description> <description>gas</description> <noise>when</noise> <noise>cooking</noise> </TokenSequence>
+<TokenSequence><action>check</action> <object>stove</object> <conjunction>and</conjunction> <action>install</action> <object>towel</object> <object>bar</object> </TokenSequence>
+<TokenSequence><noise>conduct</noise> <description>monthly</description> <location>elevator</location> <description>communication</description> <action>test</action> <noise>a</noise> </TokenSequence>
+<TokenSequence><action>confirm</action> <description>holes</description> <description>in</description> <location>hall</location> <conjunction>and</conjunction> <object>closet</object> <description>are</description> <action>plastered</action> </TokenSequence>
+<TokenSequence><action>connect</action> <location>bthrm</location> <object>sink</object> <noise>as</noise> <noise>per</noise> <noise>anthony</noise> </TokenSequence>
+<TokenSequence><action>connect</action> <object>dishwasher</object> <action>check</action> <conjunction>and</conjunction> <description>correct</description> </TokenSequence>
+<TokenSequence><noise>contractor</noise> <description>scratched</description> <object>window</object> <description>from</description> <description>outside</description> <noise>when</noise> </TokenSequence>
+<TokenSequence><object>court</object> <description>case</description> <action>repair</action> <location>kitchen</location> <object>sink</object> </TokenSequence>
+<TokenSequence><action>court</action> <description>order</description> <inspect>action</inspect> <repair>action</repair> </TokenSequence>
+<TokenSequence><object>court</object> <description>order</description> <action>inspect</action> <action>repair</action> <object>floor</object> <object>tiling</object> </TokenSequence>
+<TokenSequence><noise>court</noise> <description>order</description> <action>repair</action> <action>check</action> <object>windows</object> <noise>throughout</noise> </TokenSequence>
+<TokenSequence><action>cover</action> <noise>any</noise> <action>mouse</action> <object>holes</object> <description>in</description> <location>kitchen</location> <noise>area</noise> <action>check</action> </TokenSequence>
+<TokenSequence><action>cover</action> <location>bathroom</location> <description>opening</description> <noise>due</noise> <noise>contractors</noise> <noise>findi</noise> </TokenSequence>
+<TokenSequence><description>damaged</description> <location>kitchen</location> <action>floor</action> <object>tile</object> <action>replace</action> </TokenSequence>
+<TokenSequence><description>dampspot</description> <noise>from</noise> <object>wall</object> <object>ceil</object> <location>bathroom</location> </TokenSequence>
+<TokenSequence><description>defective</description> <object>heater</object> <location>bedroom</location> </TokenSequence>
+<TokenSequence><object>dishwasher</object> <description>does</description> <description>not</description> <description>work</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><object>dishwasher</object> <description>falling</description> <description>out</description> <description>noise</description> <noise>sockets</noise> </TokenSequence>
+<TokenSequence><action>distribute</action> <description>no</description> <description>access</description> <description>letters</description> </TokenSequence>
+<TokenSequence><action>do</action> <noise>a</noise> <object>washer</object> <object>dryer</object> <object>inventory</object> <noise>in</noise> <noise>the</noise> <noise>a</noise> <location>laundry</location> </TokenSequence>
+<TokenSequence><action>do</action> <noise>the</noise> <object>inventory</object> <description>of</description> <noise>the</noise> <noise>a</noise> <location>tower</location> <conjunction>and</conjunction> <noise>the</noise> <noise>e</noise> <noise>tow</noise> </TokenSequence>
+<TokenSequence><description>door</description> <object>knob</object> <description>is</description> <description>loose</description> </TokenSequence>
+<TokenSequence><action>drill</action> <description>dust</description> <action>treatment</action> <description>for</description> <description>rodents</description> </TokenSequence>
+<TokenSequence><noise>drop</noise> <action>ceiling</action> <object>tile</object> <action>repair</action> <action>replace</action> </TokenSequence>
+<TokenSequence><noise>dummy</noise> <object>lock</object> <description>needed</description> <description>at</description> <location>apt</location> <object>door</object> </TokenSequence>
+<TokenSequence><object>electric</object> <noise>in</noise> <location>bedroom</location> <description>isnt</description> <description>working</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><object>electrical</object> <location>kitchen</location> <object>switch</object> <description>not</description> <description>working</description> <noise>properl</noise> </TokenSequence>
+<TokenSequence><location>electrical</location> <object>outlet</object> <noise>in</noise> <location>livingroom</location> </TokenSequence>
+<TokenSequence><location>elevator</location> <noise>1</noise> <noise>door</noise> <object>roller</object> <noise>on</noise> <noise>the</noise> <noise>4th</noise> <location>floor</location> <noise>not</noise> </TokenSequence>
+<TokenSequence><location>elevator</location> <noise>1</noise> <noise>off</noise> <description>level</description> <noise>super</noise> <noise>called</noise> <noise>el</noise> <noise>tech</noise> <noise>su</noise> </TokenSequence>
+<TokenSequence><location>elevator</location> <noise>3</noise> <description>stuck</description> <description>in</description> <location>lobby</location> <noise>super</noise> <noise>called</noise> <noise>unite</noise> </TokenSequence>
+<TokenSequence><description>emergency</description> <action>plaster</action> <action>paint</action> <object>wall</object> <noise>in</noise> <noise>the</noise> <noise>walking</noise> </TokenSequence>
+<TokenSequence><description>emergency</description> <noise>call</noise> <action>repaired</action> <location>kitchen</location> <object>sink</object> <description>hot</description> <description>water</description> </TokenSequence>
+<TokenSequence><location>entrance</location> <action>door</action> <object>frame</object> <description>needs</description> <noise>to</noise> <noise>be</noise> <action>painted</action> </TokenSequence>
+<TokenSequence><action>eviction</action> <noise>between</noise> <noise>10am</noise> <noise>11am</noise> <noise>with</noise> <noise>marshal</noise> </TokenSequence>
+<TokenSequence><action>eviction</action> <action>change</action> <object>door</object> <object>lock</object> </TokenSequence>
+<TokenSequence><location>exit</location> <object>door</object> <object>knob</object> <location>35th</location> <location>fl</location> </TokenSequence>
+<TokenSequence><description>exposed</description> <action>electric</action> <object>wiring</object> <noise>please</noise> <action>cover</action> </TokenSequence>
+<TokenSequence><action>exterminate</action> <action>install</action> <description>bedbug</description> <action>monitors</action> <action>inspection</action> </TokenSequence>
+<TokenSequence><action>extermination</action> <description>needed</description> <description>in</description> <noise>front</noise> <location>door</location> <noise>area</noise> <noise>kitc</noise> </TokenSequence>
+<TokenSequence><action>exterminator</action> <description>schedule</description> <noise>to</noise> <action>drill</action> <action>dust</action> <object>walls</object> <noise>f</noise> </TokenSequence>
+<TokenSequence><object>faucet</object> <description>broken</description> <noise>job</noise> <action>completed</action> </TokenSequence>
+<TokenSequence><object>faucet</object> <description>keeps</description> <description>dripping</description> <description>water</description> </TokenSequence>
+<TokenSequence><object>faucet</object> <description>leaking</description> <noise>in</noise> <location>kitchen</location> </TokenSequence>
+<TokenSequence><description>fdny</description> <action>inspection</action> <description>to</description> <action>renew</action> <description>permits</description> </TokenSequence>
+<TokenSequence><action>find</action> <conjunction>and</conjunction> <action>repair</action> <noise>water</noise> <description>leak</description> <noise>lea</noise> </TokenSequence>
+<TokenSequence><action>finish</action> <action>painting</action> <location>bathroom</location> <object>ceiling</object> </TokenSequence>
+<TokenSequence><description>fire</description> <object>egress</object> <description>defective</description> <action>remove</action> <description>obstruction</description> </TokenSequence>
+<TokenSequence><noise>fire</noise> <location>escape</location> <noise>window</noise> <object>glass</object> <description>broken</description> <noise>insid</noise> </TokenSequence>
+<TokenSequence><action>fix</action> <location>bathroom</location> <object>ceiling</object> <object>door</object> <action>painitng</action> <noise>due</noise> <description>water</description> </TokenSequence>
+<TokenSequence><action>fix</action> <description>closet</description> <object>door</object> <description>off</description> <description>track</description> </TokenSequence>
+<TokenSequence><action>fix</action> <description>peeling</description> <action>paint</action> <noise>in</noise> <noise>the</noise> <location>bathroom</location> <noise>caus</noise> </TokenSequence>
+<TokenSequence><object>floor</object> <description>buckle</description> <noise>in</noise> <location>bedroom</location> <object>closet</object> </TokenSequence>
+<TokenSequence><noise>follow</noise> <action>up</action> <noise>on</noise> <description>leak</description> <noise>in</noise> <location>unit</location> <action>repair</action> <noise>was</noise> <noise>made</noise> </TokenSequence>
+<TokenSequence><noise>francisco</noise> <noise>vicente</noise> <noise>will</noise> <noise>be</noise> <action>working</action> <noise>with</noise> <noise>heatcl</noise> </TokenSequence>
+<TokenSequence><object>freezer</object> <object>shelf</object> <noise>rack</noise> <description>missing</description> </TokenSequence>
+<TokenSequence><description>full</description> <object>bath</object> <object>basin</object> <description>leak</description> </TokenSequence>
+<TokenSequence><object>garbage</object> <action>cleaning</action> </TokenSequence>
+<TokenSequence><object>garbage</object> <action>removal</action> <location>clean</location> <action>up</action> <location>garbage</location> <location>area</location> </TokenSequence>
+<TokenSequence><object>garbage</object> <action>removal</action> <location>building</location> <action>laundry</action> <location>room</location> <action>clean</action> </TokenSequence>
+<TokenSequence><action>ground</action> <location>floor</location> <object>compactor</object> <action>clean</action> <action>up</action> </TokenSequence>
+<TokenSequence><action>grout</action> <description>around</description> <object>tiles</object> <noise>in</noise> <location>bathroom</location> <noise>where</noise> <noise>needed</noise> </TokenSequence>
+<TokenSequence><action>grout</action> <location>bathroom</location> <object>tiles</object> </TokenSequence>
+<TokenSequence><noise>half</noise> <location>bathroom</location> <object>basin</object> <description>leaking</description> </TokenSequence>
+<TokenSequence><noise>half</noise> <location>bathroom</location> <object>sink</object> <noise>not</noise> <description>draining</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><location>halls</location> <location>staircase</location> <description>electrical</description> <description>hazards</description> <noise>ot</noise> </TokenSequence>
+<TokenSequence><object>gas</object> <description>leak</description> <noise>on</noise> <object>stove</object> </TokenSequence>
+<TokenSequence><object>gas</object> <description>odor</description> <noise>please</noise> <action>check</action> <object>stove</object> </TokenSequence>
+<TokenSequence><object>gas</object> <description>smell</description> <description>coming</description> <noise>from</noise> <object>stove</object> </TokenSequence>
+<TokenSequence><description>general</description> <action>repair</action> <noise>not</noise> <noise>specified</noise> <noise>by</noise> <noise>tenan</noise> </TokenSequence>
+<TokenSequence><description>general</description> <action>repairs</action> </TokenSequence>
+<TokenSequence><source>ground</source> <location>floor</location> <object>compactor</object> <action>clean</action> <source>up</source> </TokenSequence>
+<TokenSequence><action>grout</action> <noise>around</noise> <object>tiles</object> <noise>in</noise> <location>bathroom</location> <noise>where</noise> <noise>needed</noise> </TokenSequence>
+<TokenSequence><action>grout</action> <location>bathroom</location> <object>tiles</object> </TokenSequence>
+<TokenSequence><noise>half</noise> <location>bathroom</location> <object>basin</object> <description>leaking</description> </TokenSequence>
+<TokenSequence><noise>half</noise> <location>bathroom</location> <object>sink</object> <noise>not</noise> <description>draining</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><location>halls</location> <location>staircase</location> <description>electrical</description> <description>hazards</description> <noise>ot</noise> </TokenSequence>
+<TokenSequence><object>handle</object> <noise>at</noise> <location>kitchen</location> <object>faucet</object> <noise>is</noise> <description>off</description> </TokenSequence>
+<TokenSequence><object>heater</object> <description>is</description> <description>not</description> <action>shutting</action> <action>off</action> </TokenSequence>
+<TokenSequence><object>heater</object> <location>not</location> <description>working</description> <noise>in</noise> <location>bedrooms</location> </TokenSequence>
+<TokenSequence><action>heating</action> <object>pipe</object> <description>leak</description> <action>repair</action> </TokenSequence>
+<TokenSequence><description>hole</description> <noise>in</noise> <description>drywall</description> <noise>at</noise> <object>kitchen</object> <object>cabinet</object> </TokenSequence>
+<TokenSequence><noise>hot</noise> <description>water</description> <noise>coming</noise> <noise>out</noise> <description>when</description> <noise>cold</noise> <description>water</description> <noise>is</noise> <noise>turne</noise> </TokenSequence>
+<TokenSequence><noise>hpd</noise> <location>kitchen</location> <action>base</action> <object>cabinet</object> <object>sink</object> <action>replace</action> </TokenSequence>
+<TokenSequence><action>identify</action> <description>leak</description> <description>coming</description> <description>from</description> <object>ceiling</object> </TokenSequence>
+<TokenSequence><action>inspect</action> <action>repair</action> <location>bathroom</location> <object>wall</object> <description>leak</description> </TokenSequence>
+<TokenSequence><action>install</action> <object>appliances</object> <object>dishwasher</object> <object>stove</object> <object>microw</object> </TokenSequence>
+<TokenSequence><action>install</action> <object>appliances</object> <noise>for</noise> <noise>905</noise> </TokenSequence>
+<TokenSequence><location>kitchen</location> <description>hot</description> <description>water</description> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>refridgerator</object> <action>repair</action> <action>inspect</action> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>stove</object> <noise>range</noise> <object>oven</object> <object>stove</object> <object>burner</object> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>aerator</object> <description>missing</description> <noise>in</noise> <object>kitchen</object> <object>sink</object> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>sink</object> <description>is</description> <description>leaking</description> <noise>from</noise> <noise>the</noise> <noise>bottom</noise> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>sink</object> <description>is</description> <description>leaking</description> <noise>from</noise> <noise>the</noise> <noise>pipe</noise> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>sink</object> <description>making</description> <noise>loud</noise> <description>noise</description> <noise>bad</noise> <noise>o</noise> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>sink</object> <description>mold</description> <action>removal</action> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>sink</object> <description>stoppage</description> <description>bedbugs</description> <action>see</action> <noise>carlos</noise> </TokenSequence>
+<TokenSequence><location>kitchen</location> <object>sink</object> <description>stoppage</description> <conjunction>also</conjunction> <description>leaking</description> <noise>from</noise> <noise>under</noise> </TokenSequence>
+<TokenSequence><location>kitchen</location> <description>stove</description> <object>burner</object> <description>out</description> </TokenSequence>
+<TokenSequence><location>kitchen</location> <noise>stove</noise> <object>top</object> <noise>not</noise> <description>working</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><location>lanscaping</location> <description>clean</description> <action>up</action> <noise>the</noise> <description>bushes</description> </TokenSequence>
+<TokenSequence><noise>large</noise> <description>hole</description> <description>above</description> <description>shower</description> <object>head</object> <noise>due</noise> <noise>to</noise> <description>plumbing</description> </TokenSequence>
+<TokenSequence><description>laundry</description> <location>room</location> <object>drain</object> <description>clog</description> </TokenSequence>
+<TokenSequence><description>laundry</description> <location>room</location> <noise>keep</noise> <description>triping</description> </TokenSequence>
+<TokenSequence><description>laundry</description> <location>room</location> <description>plumbing</description> <description>stoppage</description> </TokenSequence>
+<TokenSequence><description>leak</description> <noise>affecting</noise> <location>kitchen</location> <object>outlet</object> </TokenSequence>
+<TokenSequence><description>leak</description> <object>coming</object> <description>down</description> <location>kitchen</location> <object>wall</object> </TokenSequence>
+<TokenSequence><description>leak</description> <object>coming</object> <description>from</description> <location>bathroom</location> <object>toilet</object> </TokenSequence>
+<TokenSequence><description>leaking</description> <object>on</object> <location>kitchen</location> <object>trap</object> </TokenSequence>
+<TokenSequence><description>leaking</description> <description>under</description> <location>bathroom</location> <object>sink</object> <object>cabinet</object> </TokenSequence>
+<TokenSequence><object>light</object> <object>fixture</object> <object>covers</object> <action>needed</action> <conjunction>and</conjunction> <action>replace</action> <object>light</object> </TokenSequence>
+<TokenSequence><object>lights</object> <noise>not</noise> <description>working</description> <noise>at</noise> <location>building</location> <noise>above</noise> <noise>on</noise> <noise>t</noise> </TokenSequence>
+<TokenSequence><object>lights</object> <description>out</description> <noise>on</noise> <noise>the</noise> <noise>7th</noise> <location>floor</location> <location>staircase</location> <noise>x</noise> <conjunction>and</conjunction> <noise>z</noise> </TokenSequence>
+<TokenSequence><object>living</object> <location>room</location> <location>bedroom</location> <location>kitchen</location> <object>radiator</object> </TokenSequence>
+<TokenSequence><object>living</object> <location>room</location> <object>radiator</object> <object>valve</object> </TokenSequence>
+<TokenSequence><action>living</action> <location>room</location> <action>window</action> <object>screen</object> <action>measure</action> <action>install</action> </TokenSequence>
+<TokenSequence><location>lobby</location> <object>door</object> <action>paint</action> <description>black</description> </TokenSequence>
+<TokenSequence><object>look</object> <action>for</action> <description>leak</description> <description>above</description> <location>bathroom</location> <object>ceiling</object> </TokenSequence>
+<TokenSequence><location>look</location> <action>for</action> <description>leak</description> <noise>into</noise> <location>community</location> <location>room</location> </TokenSequence>
+<TokenSequence><location>mailbox</location> <object>cylinder</object> <action>change</action> </TokenSequence>
+<TokenSequence><location>mailbox</location> <noise>front</noise> <object>door</object> <object>lock</object> <action>replace</action> <location>apt</location> <noise>c45</noise> </TokenSequence>
+<TokenSequence><location>mailbox</location> <object>lock</object> <noise>not</noise> <description>working</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><noise>main</noise> <location>apartment</location> <object>entrance</object> <object>door</object> </TokenSequence>
+<TokenSequence><noise>main</noise> <location>bathroom</location> <object>tub</object> <description>clogg</description> </TokenSequence>
+<TokenSequence><noise>main</noise> <action>entrance</action> <object>door</object> <object>lock</object> <description>is</description> <description>loose</description> <noise>please</noise> <action>fix</action> </TokenSequence>
+<TokenSequence><noise>master</noise> <location>bathroom</location> <noise>medicine</noise> <object>cabinet</object> <object>glass</object> <description>fell</description> <noise>o</noise> </TokenSequence>
+<TokenSequence><noise>master</noise> <location>bathroom</location> <noise>soap</noise> <object>dish</object> <noise>fell</noise> <noise>off</noise> </TokenSequence>
+<TokenSequence><action>medicine</action> <object>cabinet</object> <action>inspection</action> </TokenSequence>
+<TokenSequence><object>microwave</object> <description>door</description> <object>handle</object> <description>is</description> <description>broken</description> </TokenSequence>
+<TokenSequence><object>microwave</object> <object>handle</object> <description>broken</description> </TokenSequence>
+<TokenSequence><description>missing</description> <location>bathroom</location> <object>bulbs</object> </TokenSequence>
+<TokenSequence><description>missing</description> <object>closet</object> <object>door</object> <object>knob</object> </TokenSequence>
+<TokenSequence><description>missing</description> <object>towel</object> <object>bar</object> </TokenSequence>
+<TokenSequence><noise>monthly</noise> <location>elevator</location> <description>communication</description> <action>test</action> <numerator>2</numerator> <noise>fire</noise> </TokenSequence>
+<TokenSequence><action>mount</action> <location>hallway</location> <object>signs</object> </TokenSequence>
+<TokenSequence><noise>new</noise> <noise>tenant</noise> <action>check</action> <action>repair</action> <location>kitchen</location> <object>sink</object> <object>faucet</object> </TokenSequence>
+<TokenSequence><noise>new</noise> <noise>tenant</noise> <object>showerhead</object> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>next</noise> <noise>to</noise> <noise>mail</noise> <location>room</location> <action>replace</action> <description>missing</description> <description>broken</description> <noise>wa</noise> </TokenSequence>
+<TokenSequence><description>no</description> <description>cold</description> <description>water</description> <description>in</description> <location>bthrm</location> <description>hot</description> <description>water</description> <description>is</description> <description>scoldin</description> </TokenSequence>
+<TokenSequence><description>no</description> <location>electrical</location> <description>power</description> <description>in</description> <location>kitchen</location> </TokenSequence>
+<TokenSequence><description>no</description> <description>electricity</description> <description>in</description> <noise>master</noise> <location>bedroom</location> </TokenSequence>
+<TokenSequence><description>no</description> <description>heat</description> <description>in</description> <noise>the</noise> <location>bedroom</location> </TokenSequence>
+<TokenSequence><description>no</description> <description>heat</description> <noise>always</noise> <noise>cold</noise> </TokenSequence>
+<TokenSequence><description>no</description> <description>heat</description> <description>in</description> <location>living</location> <location>room</location> <conjunction>and</conjunction> <location>bedroom</location> </TokenSequence>
+<TokenSequence><description>no</description> <action>light</action> <description>at</description> <object>microwave</object> </TokenSequence>
+<TokenSequence><description>no</description> <object>light</object> <noise>in</noise> <noise>front</noise> <noise>of</noise> <noise>tnt</noise> <noise>s</noise> <location>apt</location> </TokenSequence>
+<TokenSequence><description>no</description> <description>water</description> <description>at</description> <object>toilet</object> <conjunction>and</conjunction> <object>basin</object> </TokenSequence>
+<TokenSequence><noise>office</noise> <action>replace</action> <object>toilet</object> <object>seat</object> </TokenSequence>
+<TokenSequence><action>oil</action> <description>squeaking</description> <object>closet</object> <action>silicone</action> <noise>around</noise> <location>kitchen</location> </TokenSequence>
+<TokenSequence><noise>old</noise> <noise>tenant</noise> <description>tripping</description> <noise>on</noise> <analysis>bathroom</analysis> <location>entrance</location> <analysis>due</analysis> </TokenSequence>
+<TokenSequence><numerator>one</numerator> <object>range</object> <noise>on</noise> <object>stove</object> <description>is</description> <description>not</description> <description>igniting</description> </TokenSequence>
+<TokenSequence><action>open</action> <noise>ac</noise> <object>cover</object> <action>install</action> <noise>ac</noise> <object>sleeve</object> <noise>if</noise> <noise>necessar</noise> </TokenSequence>
+<TokenSequence><action>order</action> <description>intercom</description> <object>system</object> <description>info</description> <description>plate</description> </TokenSequence>
+<TokenSequence><action>organize</action> <location>stock</location> <location>room</location> </TokenSequence>
+<TokenSequence><description>outdoor</description> <object>lights</object> <action>install</action> </TokenSequence>
+<TokenSequence><object>outlet</object> <object>cover</object> <object>heater</object> <object>cover</object> </TokenSequence>
+<TokenSequence><object>outlets</object> <description>in</description> <location>bedroom</location> <location>living</location> <location>room</location> </TokenSequence>
+<TokenSequence><object>oven</object> <noise>is</noise> <noise>not</noise> <description>working</description> <noise>again</noise> </TokenSequence>
+<TokenSequence><description>oven</description> <object>light</object> <description>doesn</description> <noise>t</noise> <description>work</description> </TokenSequence>
+<TokenSequence><description>overhead</description> <action>light</action> <object>fixtures</object> <action>repair</action> </TokenSequence>
+<TokenSequence><action>paint</action> <location>hallway</location> <noise>at</noise> <noise>540</noise> <noise>get</noise> <noise>location</noise> </TokenSequence>
+<TokenSequence><action>paint</action> <noise>19th</noise> <location>floor</location> <conjunction>and</conjunction> <action>work</action> <noise>down</noise> </TokenSequence>
+<TokenSequence><action>paint</action> <description>all</description> <location>apt</location> <object>doors</object> <noise>in</noise> <noise>entire</noise> <noise>building</noise> </TokenSequence>
+<TokenSequence><action>paint</action> <location>apartment</location> <description>complete</description> <noise>3</noise> <noise>year</noise> <noise>cycle</noise> <noise>paint</noise> </TokenSequence>
+<TokenSequence><action>paint</action> <object>building</object> <location>lobby</location> <object>door</object> </TokenSequence>
+<TokenSequence><action>paint</action> <noise>entire</noise> <location>bthrm</location> </TokenSequence>
+<TokenSequence><action>paint</action> <object>fence</object> <noise>on</noise> <noise>111th</noise> <noise>street</noise> </TokenSequence>
+<TokenSequence><action>paint</action> <object>front</object> <object>door</object> </TokenSequence>
+<TokenSequence><action>paint</action> <location>hallway</location> <description>on</description> <description>the</description> <noise>4th</noise> <location>floor</location> <noise>ple</noise> </TokenSequence>
+<TokenSequence><action>paint</action> <location>roof</location> <description>graffiti</description> </TokenSequence>
+<TokenSequence><action>paint</action> <location>stairwell</location> <noise>580</noise> <location>lobby</location> </TokenSequence>
+<TokenSequence><action>paint</action> <location>stairwell</location> <noise>q</noise> <conjunction>and</conjunction> <noise>p</noise> <noise>on</noise> <location>1st</location> <location>floor</location> </TokenSequence>
+<TokenSequence><action>paint</action> <noise>the</noise> <description>inside</description> <description>of</description> <location>apt</location> <object>door</object> </TokenSequence>
+<TokenSequence><action>paint</action> <description>with</description> <description>light</description> <description>colored</description> <description>paint</description> <noise>to</noise> <noise>t</noise> </TokenSequence>
+<TokenSequence><noise>partial</noise> <noise>cycle</noise> <action>paint</action> <location>kitchen</location> <location>bathroom</location> <noise>comple</noise> </TokenSequence>
+<TokenSequence><action>patch</action> <description>holes</description> <noise>under</noise> <noise>the</noise> <location>kitchen</location> <conjunction>and</conjunction> <conjunction>or</conjunction> <noise>any</noise> <noise>othe</noise> </TokenSequence>
+<TokenSequence><description>pests</description> <description>mice</description> <noise>entire</noise> <location>apt</location> <noise>awaiting</noise> <action>inspection</action> </TokenSequence>
+<TokenSequence><action>pickup</action> <description>inside</description> <location>garage</location> <location>roof</location> <location>deck</location> </TokenSequence>
+<TokenSequence><object>pipe</object> <action>repair</action> <description>in</description> <location>bathroom</location> <object>sink</object> <noise>undernea</noise> </TokenSequence>
+<TokenSequence><object>pipe</object> <noise>under</noise> <object>basin</object> <description>is</description> <description>broken</description> </TokenSequence>
+<TokenSequence><action>place</action> <description>mulch</description> <description>inside</description> <object>flower</object> <object>boxes</object> </TokenSequence>
+<TokenSequence><action>plaster</action> <action>paint</action> <location>bathroom</location> <object>wall</object> <description>above</description> <object>vanity</object> </TokenSequence>
+<TokenSequence><action>plaster</action> <conjunction>and</conjunction> <action>paint</action> <description>at</description> <location>elevator</location> <location>bank</location> </TokenSequence>
+<TokenSequence><action>plaster</action> <action>paint</action> <description>rerent</description> <location>unit</location> <location>apt</location> <noise>3e</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>assess</action> <description>the</description> <location>window</location> <noise>as</noise> <noise>per</noise> <noise>roc</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>check</action> <noise>circuit</noise> <noise>breaker</noise> <object>panel</object> <noise>no</noise> <noise>ele</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>check</action> <noise>all</noise> <noise>out</noise> <description>door</description> <object>lights</object> <noise>turn</noise> <noise>them</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>check</action> <noise>electric</noise> <object>outlets</object> <description>around</description> <location>apt</location> <noise>some</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>check</action> <location>kitchen</location> <noise>light</noise> <object>fixture</object> <noise>to</noise> <noise>make</noise> <noise>s</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>identify</action> <description>leak</description> <description>coming</description> <description>to</description> <noise>tenant</noise> <object>ceiling</object> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>inspect</action> <conjunction>and</conjunction> <action>replace</action> <noise>if</noise> <noise>is</noise> <noise>necessary</noise> <noise>el</noise> </TokenSequence>
+<TokenSequence><noise>please</noise> <action>patch</action> <object>wall</object> <description>opening</description> <description>in</description> <location>kitchen</location> <location>hallway</location> </TokenSequence>
+<TokenSequence><description>plumbing</description> <action>repair</action> <description>in</description> <noise>community</noise> <location>room</location> <noise>require</noise> <noise>bui</noise> </TokenSequence>
+<TokenSequence><noise>police</noise> <noise>up</noise> <conjunction>and</conjunction> <noise>clean</noise> <action>up</action> <description>the</description> <location>courtyard</location> <noise>area</noise> <noise>alo</noise> </TokenSequence>
+<TokenSequence><noise>porter</noise> <noise>on</noise> <noise>vacation</noise> <location>building</location> <action>cleaning</action> </TokenSequence>
+<TokenSequence><action>post</action> <noise>housing</noise> <object>sign</object> <description>in</description> <location>lobby</location> <noise>all</noise> <noise>buildings</noise> </TokenSequence>
+<TokenSequence><noise>pre</noise> <action>inspect</action> <location>apartment</location> <noise>for</noise> <noise>transfer</noise> </TokenSequence>
+<TokenSequence><noise>pre</noise> <action>inspection</action> <noise>for</noise> <noise>bed</noise> <description>bugs</description> <action>schedule</action> <noise>for</noise> <noise>tues</noise> </TokenSequence>
+<TokenSequence><action>prep</action> <noise>vacant</noise> <location>unit</location> <noise>e19f</noise> <noise>for</noise> <noise>4</noise> <noise>15</noise> <description>move</description> <description>in</description> </TokenSequence>
+<TokenSequence><action>prepare</action> <numerator>one</numerator> <object>vanity</object> <conjunction>and</conjunction> <noise>medicine</noise> <object>cabinet</object> <noise>for</noise> <noise>m</noise> </TokenSequence>
+<TokenSequence><description>problem</description> <noise>with</noise> <object>toilet</object> <object>handle</object> </TokenSequence>
+<TokenSequence><noise>properly</noise> <action>seal</action> <noise>around</noise> <object>medicine</object> <object>cabinet</object> </TokenSequence>
+<TokenSequence><noise>pte</noise> <action>knock</action> <noise>first</noise> <noise>tnt</noise> <noise>states</noise> <noise>they</noise> </TokenSequence>
+<TokenSequence><noise>pte</noise> <action>repair</action> <location>kitchen</location> <object>cabinet</object> <description>stuck</description> <description>closed</description> </TokenSequence>
+<TokenSequence><noise>pte</noise> <action>check</action> <action>repair</action> <location>bathroom</location> <object>vent</object> <description>not</description> <description>working</description> </TokenSequence>
+<TokenSequence><action>pull</action> <action>out</action> <object>stove</object> <noise>for</noise> <noise>resident</noise> <noise>for</noise> <action>cleaning</action> </TokenSequence>
+<TokenSequence><noise>punch</noise> <action>out</action> <location>apartment</location> <noise>leased</noise> <noise>up</noise> <noise>for</noise> <noise>rental</noise> <noise>june</noise> </TokenSequence>
+<TokenSequence><noise>put</noise> <action>back</action> <location>hallway</location> <noise>closet</noise> <object>door</object> <noise>is</noise> <noise>in</noise> <noise>apartmen</noise> </TokenSequence>
+<TokenSequence><action>radiator</action> <object>valve</object> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>re</noise> <action>glaze</action> <object>tub</object> <description>ceramic</description> <description>chipped</description> <noise>at</noise> <noise>stainer</noise> <noise>pee</noise> </TokenSequence>
+<TokenSequence><noise>re</noise> <action>grout</action> <noise>around</noise> <object>bathtub</object> <noise>w</noise> <noise>o</noise> <noise>0</noise> <noise>386858</noise> </TokenSequence>
+<TokenSequence><noise>re</noise> <action>grout</action> <object>shower</object> <object>tiles</object> </TokenSequence>
+<TokenSequence><noise>re</noise> <action>install</action> <action>replace</action> <object>dishwasher</object> <noise>door</noise> <description>gasket</description> </TokenSequence>
+<TokenSequence><noise>re</noise> <action>secure</action> <object>cabinet</object> <noise>in</noise> <location>kitchen</location> </TokenSequence>
+<TokenSequence><action>reconnect</action> <noise>gas</noise> <object>stove</object> <action>seal</action> <description>hole</description> <description>behind</description> <object>stove</object> </TokenSequence>
+<TokenSequence><object>refrigerator</object> <description>bottom</description> <description>door</description> <object>gasket</object> <noise>coming</noise> <description>loose</description> </TokenSequence>
+<TokenSequence><object>refrigerator</object> <object>door</object> <object>handle</object> </TokenSequence>
+<TokenSequence><action>reinstall</action> <noise>shower</noise> <noise>curtain</noise> <object>rod</object> <description>fell</description> <noise>down</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <object>garbage</object> <noise>from</noise> <noise>the</noise> <noise>building</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <noise>101</noise> <location>kitcnen</location> <object>faucet</object> <noise>from</noise> <noise>vacant</noise> <noise>1309</noise> <noise>6b</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <object>ac</object> <object>grill</object> <conjunction>and</conjunction> <object>cover</object> </TokenSequence>
+<TokenSequence><action>remove</action> <object>air</object> <object>condition</object> <object>cover</object> <action>install</action> <object>a</object> <object>c</object> </TokenSequence>
+<TokenSequence><action>remove</action> <noise>air</noise> <object>condition</object> <noise>tenant</noise> <noise>purchased</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <noise>all</noise> <object>moldings</object> <noise>in</noise> <location>apt</location> </TokenSequence>
+<TokenSequence><action>remove</action> <noise>all</noise> <object>sheetrock</object> <conjunction>and</conjunction> <object>debris</object> <noise>from</noise> <noise>side</noise> <noise>eme</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <noise>all</noise> <noise>window</noise> <object>guards</object> <conjunction>and</conjunction> <action>paint</action> <noise>black</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <object>smoke</object> <object>alarm</object> <conjunction>and</conjunction> <action>install</action> <object>combo</object> <object>alarm</object> </TokenSequence>
+<TokenSequence><action>remove</action> <object>snow</object> <noise>from</noise> <noise>all</noise> <noise>buildings</noise> </TokenSequence>
+<TokenSequence><action>remove</action> <object>stove</object> <object>refrigerator</object> <noise>put</noise> <noise>in</noise> <noise>storage</noise> </TokenSequence>
+<TokenSequence><action>repair</action> <action>replace</action> <action>install</action> </TokenSequence>
+<TokenSequence><action>repair</action> <action>replace</action> <location>kitchen</location> <object>floor</object> <object>tiles</object> </TokenSequence>
+<TokenSequence><action>repair</action> <location>apartment</location> <noise>door</noise> <object>knob</object> <description>loose</description> <noise>and</noise> <noise>coming</noise> <noise>o</noise> </TokenSequence>
+<TokenSequence><action>repair</action> <location>balcony</location> <object>door</object> <object>handle</object> </TokenSequence>
+<TokenSequence><action>repair</action> <location>bathroom</location> <object>door</object> <object>hinge</object> </TokenSequence>
+<TokenSequence><action>repair</action> <object>ceiling</object> <object>wall</object> <description>damaged</description> </TokenSequence>
+<TokenSequence><action>repair</action> <description>damaged</description> <object>wall</object> <object>tiles</object> </TokenSequence>
+<TokenSequence><action>repair</action> <description>heat</description> <object>pipe</object> <description>leak</description> </TokenSequence>
+<TokenSequence><action>repair</action> <description>hole</description> <description>above</description> <object>toilet</object> <noise>in</noise> <location>bthrm</location> </TokenSequence>
+<TokenSequence><action>repair</action> <action>inspect</action> <location>bedroom</location> <object>window</object> <description>draft</description> </TokenSequence>
+<TokenSequence><action>repair</action> <noise>intercom</noise> <object>system</object> <noise>in</noise> <noise>building</noise> </TokenSequence>
+<TokenSequence><action>repair</action> <location>kitchen</location> <object>cabinet</object> <object>door</object> <object>coming</object> <description>off</description> <object>hinge</object> </TokenSequence>
+<TokenSequence><action>repair</action> <noise>light</noise> <object>fixture</object> <noise>in</noise> <location>hallway</location> <noise>nea</noise> </TokenSequence>
+<TokenSequence><action>repair</action> <object>radiator</object> <description>leak</description> <noise>4th</noise> <noise>floor</noise> </TokenSequence>
+<TokenSequence><action>seal</action> <description>rodent</description> <noise>access</noise> <object>holes</object> <noise>in</noise> <location>ceiling</location> <noise>throughou</noise> </TokenSequence>
+<TokenSequence><action>seal</action> <object>wall</object> <description>holes</description> <description>under</description> <noise>kitchen</noise> <object>cabinets</object> <description>mice</description> <noise>c</noise> </TokenSequence>
+<TokenSequence><action>secure</action> <location>toilet</location> <object>seat</object> <location>toilet</location> <description>constantly</description> <description>running</description> </TokenSequence>
+<TokenSequence><action>see</action> <object>list</object> <noise>on</noise> <noise>anthonys</noise> <noise>door</noise> <noise>key</noise> <noise>to</noise> <noise>apt</noise> <noise>is</noise> <noise>there</noise> </TokenSequence>
+<TokenSequence><object>sheetrock</object> <location>lobby</location> <object>ceiling</object> <description>due</description> <noise>to</noise> <description>leak</description> </TokenSequence>
+<TokenSequence><action>silicone</action> <object>tub</object> <conjunction>and</conjunction> <object>countertop</object> </TokenSequence>
+<TokenSequence><object>sink</object> <conjunction>and</conjunction> <object>bathtub</object> <description>clogged</description> </TokenSequence>
+<TokenSequence><noise>slow</noise> <description>drain</description> <noise>in</noise> <location>bthrm</location> <noise>tnt</noise> <noise>didn</noise> <noise>t</noise> <noise>state</noise> <object>tub</object> <noise>or</noise> <noise>s</noise> </TokenSequence>
+<TokenSequence><description>slowleak</description> <noise>at</noise> <object>wall</object> <object>ceil</object> <location>lobby</location> <noise>awaiting</noise> <noise>inspecti</noise> </TokenSequence>
+<TokenSequence><noise>small</noise> <location>bathroom</location> <noise>in</noise> <location>office</location> <description>slow</description> <description>drain</description> </TokenSequence>
+<TokenSequence><description>snow</description> <action>removal</action> <action>take</action> <object>pictures</object> </TokenSequence>
+<TokenSequence><description>snow</description> <action>removal</action> <noise>from</noise> <location>side</location> <location>walks</location> <location>pathways</location> </TokenSequence>
+<TokenSequence><noise>tenant</noise> <noise>needs</noise> <action>help</action> <noise>to</noise> <action>replace</action> <object>refrigerator</object> <noise>lig</noise> </TokenSequence>
+<TokenSequence><noise>tenant</noise> <noise>request</noise> <object>stove</object> <action>removed</action> </TokenSequence>
+<TokenSequence><action>tighten</action> <location>kitcehn</location> <object>faucet</object> </TokenSequence>
+<TokenSequence><description>tile</description> <location>floor</location> <action>repair</action> </TokenSequence>
+<TokenSequence><noise>tnt</noise> <noise>stated</noise> <object>shower</object> <description>knocking</description> <noise>not</noise> <noise>sure</noise> <noise>what</noise> <noise>th</noise> </TokenSequence>
+<TokenSequence><noise>tnt</noise> <noise>stated</noise> <noise>you</noise> <noise>went</noise> <noise>to</noise> <noise>unit</noise> <noise>what</noise> <noise>ar</noise> </TokenSequence>
+<TokenSequence><object>toilet</object> <conjunction>and</conjunction> <object>basin</object> <description>stoppage</description> </TokenSequence>
+<TokenSequence><object>toilet</object> <conjunction>and</conjunction> <object>sink</object> <description>stoppage</description> </TokenSequence>
+<TokenSequence><object>toilet</object> <description>is</description> <description>clogged</description> <noise>please</noise> <noise>come</noise> <noise>asap</noise> </TokenSequence>
+<TokenSequence><description>toilet</description> <object>tank</object> <description>running</description> <conjunction>and</conjunction> <noise>going</noise> <noise>to</noise> <description>over</description> <description>flow</description> </TokenSequence>
+<TokenSequence><location>touch</location> <action>up</action> <location>hallways</location> <conjunction>and</conjunction> <location>grounds</location> </TokenSequence>
+<TokenSequence><action>trace</action> <description>leak</description> <noise>that</noise> <noise>is</noise> <noise>effecting</noise> <noise>resident</noise> </TokenSequence>
+<TokenSequence><object>tub</object> <conjunction>and</conjunction> <object>sink</object> <noise>in</noise> <noise>full</noise> <location>bathroom</location> <noise>not</noise> <description>draining</description> <noise>pr</noise> </TokenSequence>
+<TokenSequence><object>tub</object> <description>stopapge</description> <noise>back</noise> <noise>to</noise> <noise>back</noise> <noise>with</noise> <noise>10</noise> <noise>o</noise> <noise>kitchen</noise> </TokenSequence>
+<TokenSequence><location>turn</location> <action>on</action> <location>circuit</location> <object>breaker</object> <noise>in</noise> <location>hallway</location> </TokenSequence>
+<TokenSequence><noise>turn</noise> <object>sprinkler</object> <action>on</action> <noise>for</noise> <location>lawn</location> <noise>grass</noise> </TokenSequence>
+<TokenSequence><action>type</action> <action>print</action> <description>reqs</description> </TokenSequence>
+<TokenSequence><action>unclogged</action> <object>tub</object> <description>stoppage</description> <noise>back</noise> <noise>to</noise> <noise>back</noise> <noise>with</noise> <object>sink</object> </TokenSequence>
+<TokenSequence><noise>underneath</noise> <location>kitchen</location> <object>sink</object> </TokenSequence>
+<TokenSequence><noise>uniform</noise> <noise>all</noise> <object>lights</object> <noise>on</noise> <noise>the</noise> <noise>6th</noise> <location>7th</location> <location>floor</location> </TokenSequence>
+<TokenSequence><action>unlock</action> <location>balcony</location> <noise>pls</noise> <action>keep</action> <object>lock</object> <noise>and</noise> <noise>r</noise> </TokenSequence>
+<TokenSequence><action>update</action> <noise>the</noise> <description>vacancy</description> <noise>excel</noise> <object>spreadsheet</object> <noise>for</noise> <noise>bets</noise> </TokenSequence>
+<TokenSequence><description>vacant</description> <noise>17</noise> <noise>l</noise> <action>install</action> <object>stove</object> </TokenSequence>
+<TokenSequence><description>vacant</description> <noise>3c</noise> <action>prep</action> <noise>the</noise> <location>apartment</location> </TokenSequence>
+<TokenSequence><description>vacant</description> <noise>apt</noise> <action>remove</action> <noise>window</noise> <object>guard</object> <noise>from</noise> <noise>entir</noise> </TokenSequence>
+<TokenSequence><description>vacant</description> <noise>apt</noise> <noise>7</noise> <noise>g</noise> <action>prep</action> <location>apt</location> <noise>for</noise> <noise>rental</noise> </TokenSequence>
+<TokenSequence><noise>veterans</noise> <noise>day</noise> <action>go</action> <description>green</description> <noise>please</noise> <action>take</action> <object>pictures</object> <noise>fr</noise> </TokenSequence>
+<TokenSequence><noise>vio</noise> <noise>10719564</noise> <action>repair</action> <noise>the</noise> <description>broken</description> <description>defective</description> <noise>rott</noise> </TokenSequence>
+<TokenSequence><noise>violation</noise> <action>check</action> <conjunction>and</conjunction> <action>repair</action> <location>dining</location> </TokenSequence>
+<TokenSequence><noise>violation</noise> <action>paint</action> <location>bathroom</location> <object>ceiling</object> </TokenSequence>
+<TokenSequence><noise>violation</noise> <noise>11194456</noise> <noise>properly</noise> <action>repair</action> <noise>the</noise> <object>broke</object> </TokenSequence>
+<TokenSequence><noise>violation</noise> <noise>11175685</noise> <action>abate</action> <noise>the</noise> <description>nuisance</description> <noise>consist</noise> </TokenSequence>
+<TokenSequence><action>wash</action> <noise>down</noise> <noise>pressure</noise> <action>wash</action> <noise>the</noise> <location>outside</location> <noise>sitting</noise> <noise>a</noise> </TokenSequence>
+<TokenSequence><noise>washing</noise> <object>machine</object> <description>leak</description> <action>repair</action> <noise>emergency</noise> <noise>call</noise> </TokenSequence>
+<TokenSequence><action>water</action> <conjunction>and</conjunction> <action>clean</action> <noise>up</noise> <location>landscapes</location> </TokenSequence>
+<TokenSequence><action>water</action> <conjunction>and</conjunction> <action>trimm</action> <location>lanscape</location> </TokenSequence>
+<TokenSequence><object>water</object> <object>coming</object> <description>down</description> <noise>in</noise> <location>bathroom</location> <object>ceiling</object> </TokenSequence>
+<TokenSequence><location>water</location> <location>coming</location> <description>out</description> <noise>form</noise> <location>bathroom</location> </TokenSequence>
+<TokenSequence><location>water</location> <description>damage</description> <description>between</description> <location>kitchen</location> <conjunction>and</conjunction> <location>hallway</location> </TokenSequence>
+<TokenSequence><action>water</action> <action>trimm</action> <location>lanscape</location> </TokenSequence>
+<TokenSequence><object>weather</object> <action>stripping</action> <noise>throughout</noise> <object>windows</object> </TokenSequence>
+<TokenSequence><action>weatherize</action> <object>ac</object> <object>units</object> </TokenSequence>
+<TokenSequence><action>weatherize</action> <location>roof</location> <conjunction>and</conjunction> <description>all</description> <object>exterior</object> <object>doors</object> </TokenSequence>
+<TokenSequence><action>weatherstrip</action> <object>windows</object> <noise>in</noise> <location>bedroom</location> <description>drafty</description> </TokenSequence>
+<TokenSequence><noise>weekly</noise> <action>laundry</action> <location>room</location> <action>inspection</action> </TokenSequence>
+<TokenSequence><description>wheels</description> <noise>at</noise> <location>balcony</location> <object>door</object> <noise>need</noise> <action>replacing</action> </TokenSequence>
+<TokenSequence><description>wheels</description> <noise>needed</noise> <noise>for</noise> <location>balcony</location> <object>door</object> </TokenSequence>
+<TokenSequence><description>wind</description> <noise>coming</noise> <noise>through</noise> <noise>the</noise> <object>windows</object> </TokenSequence>
+<TokenSequence><noise>window</noise> <object>sill</object> <action>repair</action> <noise>court</noise> <noise>order</noise> </TokenSequence>
+<TokenSequence><object>window</object> <object>blinds</object> </TokenSequence>
+<TokenSequence><object>window</object> <action>coming</action> <object>down</object> <noise>by</noise> <noise>itself</noise> <action>reapir</action> </TokenSequence>
+<TokenSequence><object>window</object> <noise>does</noise> <description>not</description> <description>open</description> <noise>properly</noise> </TokenSequence>
+<TokenSequence><object>window</object> <object>glass</object> <action>replacement</action> <noise>all</noise> <noise>about</noise> </TokenSequence>
+<TokenSequence><noise>window</noise> <object>pane</object> <object>glass</object> <description>brkn</description> <noise>miss</noise> <location>bedroom</location> <noise>awaiting</noise> </TokenSequence>
+<TokenSequence><action>window</action> <object>pane</object> <action>replacement</action> </TokenSequence>
+<TokenSequence><object>window</object> <action>repair</action> <location>livingroom</location> <location>bedroom</location> </TokenSequence>
+<TokenSequence><action>window</action> <object>screen</object> <action>installation</action> </TokenSequence>
+<TokenSequence><object>windows</object> <noise>by</noise> <noise>the</noise> <noise>old</noise> <action>oil</action> <location>tank</location> <noise>need</noise> <noise>to</noise> <noise>be</noise> <action>sealed</action> </TokenSequence>
+<TokenSequence><object>windows</object> <noise>in</noise> <noise>middle</noise> <conjunction>and</conjunction> <noise>right</noise> <location>bedrooms</location> <noise>do</noise> <noise>not</noise> <noise>s</noise> </TokenSequence>
+<TokenSequence><object>windows</object> <noise>need</noise> <action>winterizing</action> </TokenSequence>
+<TokenSequence><action>winterize</action> <object>ac</object> <object>outlet</object> </TokenSequence>
+<TokenSequence><object>wires</object> <description>hanging</description> <noise>from</noise> <object>living</object> <location>room</location> <object>heater</object> </TokenSequence>
+<TokenSequence><description>wood</description> <location>floor</location> <description>damaged</description> <decription>from</decription> <analysis>a</analysis> <noise>water</noise> <decription>leak</decription> </TokenSequence>
+<TokenSequence><action>work</action> <noise>on</noise> <noise>the</noise> <noise>site</noise> <description>compli</description> <noise>alerts</noise> <conjunction>and</conjunction> <action>create</action> <noise>not</noise> </TokenSequence>
+<TokenSequence><noise>work</noise> <description>order</description> <noise>scheduled</noise> <noise>for</noise> <noise>tomorrow</noise> <noise>8am</noise> </TokenSequence>
+</Collection>
