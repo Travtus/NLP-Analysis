@@ -17,7 +17,7 @@ class NestedDict(dict):
         if key in self: return self.get(key)
         return self.setdefault(key, NestedDict())
 
-def vector_clusters(vectors_filename):
+def vector_clusters(vectors_filename,only_cluster_types=[]):
 
     dd=NestedDict()
     #fp=open('e2v.txt','r') #sort|uniq
@@ -29,7 +29,7 @@ def vector_clusters(vectors_filename):
         fields=re.split(r'\t',line)
         if re.search(r'\[',line):
             #if the_type and not entity=="____" and not vv=="[]": #not first
-            if the_type:
+            if the_type and ((the_type in only_cluster_types)or(only_cluster_types==[])):
                 vv=re.sub(r'[\[\]]','',vv).strip()
                 vv_list=re.split(r'\s+',vv)
                 vector=np.asarray(vv_list)

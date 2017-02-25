@@ -243,14 +243,14 @@ def tagged2columns(labels,tagged):
     return all_labels,all_data
 
 
-def crf_on_dataset(base_name,dataset_input,dataset_labelled=''):
+def crf_on_dataset(base_name,dataset_input,dataset_output_labelled='',dataset_label_limit_count=-1):
     #module = importlib.import_module(base_name, package=None)
     import sink_parser
     print "Parsing sample file (rather long)"
 #    fin='Cleaned Data.tsv.txt'
 #    fout='sample_v1.tsv'
     fp=open(dataset_input,'r')
-    f_out=open(dataset_labelled,'w')
+    f_out=open(dataset_output_labelled,'w')
 
     c=0
     for line in fp.readlines():
@@ -279,6 +279,11 @@ def crf_on_dataset(base_name,dataset_input,dataset_labelled=''):
         else:
             #print str(column_data)
             f_out.write("\t".join(column_data)+"\n")
+        
+        #Early exit (during debug)
+        if dataset_label_limit_count>0 and c>dataset_label_limit_count:
+            print "[debug] exiting dataset labelling early exit at: "+str(c)
+            break
 
     fp.close()
     f_out.close()
