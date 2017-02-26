@@ -70,7 +70,7 @@ class Word2vec_Model(object):
                 w=self.max_tfidf[the_type] #max ie/ rare
         return w
     
-    def terms2vector(self,entity,the_type='',verbose=True):
+    def terms2vector(self,entity,the_type='',verbose=False):
 
         ################################
         #Main entry
@@ -191,7 +191,7 @@ class Word2vec_Model(object):
             cgrams-=1
         return
 
-    def sent2grams2vector(self,sentence,force_lower=True,flag_filter_stopwords=True,the_type=''):
+    def sent2grams2vector(self,sentence,force_lower=True,flag_filter_stopwords=True,the_type='',verbose=False):
         #Notes:
         #- the_type for tf-idf lookup if type specified
         
@@ -205,7 +205,7 @@ class Word2vec_Model(object):
         longest_terms=[]
         while (active_sentences):
             sentence=active_sentences.pop(0) #pop off head
-            print "--> Doing: "+str(sentence)
+#D            print "--> Doing: "+str(sentence)
     
             #1/ Iterate through longest sequences in sentence until a match
             for terms in self.sentence2ngrams(sentence):
@@ -229,7 +229,8 @@ class Word2vec_Model(object):
                 else:
                     pass# print "Model has no: ["+str(terms)+"]"
     
-        print "[debug]  Longest entities with vectors: "+str(longest_terms)
+        if verbose:
+            print "[debug]  Longest entities with vectors: "+str(longest_terms)
         #Do 'words' terms to mean vector where words here is terms
         mvector=self._terms2meanvector(longest_terms,the_type='')
         return mvector

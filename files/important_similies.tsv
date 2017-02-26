@@ -1,0 +1,198 @@
+unclogged				clog
+clogg				clog
+unclogg				clog
+blocked				clog
+unclog				clog
+clog				clog
+un	clogg			clog
+un	clogg			clog
+VAC				 VACANT
+unlock				lock
+stoppage				clog
+stopage				clog
+turn	off			turn_off
+basin				sink
+backing up				clog
+backup				clog
+outlet				socket
+socket				socket
+pain				paint
+tnt				tenant
+apt				apartment
+faucet				faucet
+tap				faucet
+pai				paint
+bathrooms				bathroom
+refridgerator				fridge
+refrigerator				fridge
+rented				move_in
+prep				move_in
+mico				microwave
+plastered				plaster
+tub				bathtub
+door	handle			handle
+door	lock			lock
+running				leak
+bath				bathroom
+leaking				leak
+leaks				leak
+cracked	glass			broken
+chipped	glass			broken
+door	knob			handle
+snake	all			clog
+snake				clog
+windows				window
+heating	pipes			radiator
+take	measurement			measure
+take 	measurements			measure
+boiler	tubes			boiler
+kitchen	faucet			faucet
+bthrm				bathroom
+door	handle			handle
+door	lock			lock
+entrance	door			door
+front	door			door
+intercom	system			intercom
+carbon	monoxide	detector		CO_Detector
+CO	detector			CO_Detector
+carbon	monoxide	device		CO_Detector
+leaky				leak
+air	condition			AC
+cold	draft			draft
+pics				photos
+photo				photos
+image				photos
+electrical	cords			wiring
+electrical	chords			wiring
+electrical	wires			wiring
+electrical	cable			wiring
+livingr				living_room
+sink	knob			faucet
+knob				handle
+sink	faucet			faucet
+floor	tiling			tiling
+wall	tiling			tiling
+back	splash			tiling
+floor	tile			tiling
+wall	tile			tiling
+mouse	holes			holes
+dampspot				leak
+damp	spot			leak
+rodents				pest
+mice				pest
+mouse				pest
+cockroach				pest
+roach				pest
+roaches				pest
+bug				pest
+bugs				pest
+livingroom				living_room
+off	level			not_level
+lvl				level
+repaired				repair
+painted				paint
+door	lock			lock
+exit	door			door
+dripping				leak
+water	leak			leak
+water	leaking			leak
+painting				paint
+fire	egress			door
+window	glass			glass
+garbage	area			garbage
+not	draining			clog
+halls				hallway
+hallways				hallway
+base	cabinet			base_cabinet
+stove	burner			stove_burner
+kitchen	sink			sink
+is	leaking			leak
+loud	noise			noise
+stove	top			stove_burner
+laundry	room			laundry
+lights				light
+look	for			identify
+cylinder				lock
+fell	off			fell
+closet	door			closet
+signs				sign
+bthrm				bathroom
+scolding				hot_water
+scalding				hot_water
+scald				hot_water
+electrical	power			electric
+electric	power			electric
+bathroom	entrance			bathroom
+range				stove_burner
+igniting				working
+outlets				socket
+is 	not 	working		not_working
+doesn’t	work			not_working
+building	lobby			lobby
+bthrm				bathroom
+roof	deck			roof
+is	broken			broken
+elevator	bank			elevator
+circuit	breaker	panel		circuit_breaker
+out	door			outdoor
+exterior				outdoor
+electric	outlets			socket
+inspection				inspect
+bed	bugs			pest
+move	in			move_in
+toilet	handle			flush
+flusher				flush
+provide	acess			acess
+give	acess			acess
+pull	out			remove
+punch	out			inspect
+put	back			install
+reconnect				install
+re	connect			install
+connect				install
+door	gasket			gasket
+reinstall				install
+kitcnen				kitchen
+ac	unit			AC
+air	condition	covers		AC_cover
+air	condition	cover		AC_cover
+a	c			AC
+air	condition			AC
+window	guards			window_guard
+window	guard			window_guard
+floor	tiles			tiling
+door	hinge			hinge
+wall	tile			tiling
+acess	holes			holes
+holes	from			holes
+constantly	running			water_running
+slow	drain			clog
+slowleak				leak
+ceil				ceiling
+kitcehn				kitchen
+toilet	tank			toilet
+tank	running			water_running
+tank	overflow			overflow
+touch	up			paint
+not	draining			clog
+pressure	wash			wash
+landscapes				landscape
+water	coming			leak
+water	coming	down		leak
+water	coming	out		leak
+water	damage			paint_&_plaster
+drafty				draft
+replacing				replace
+coming	down			falling
+replacement				replace
+window	pane			glass
+brkn				broken
+oil	tank			oiltank
+sealed				seal
+water	leak			leak
+from	a			due_to
+wind				window
+grill	cover			cover
+peep	hole			peephole
+abate				remove
+bth				bathroom

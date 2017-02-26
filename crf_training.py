@@ -42,6 +42,7 @@ def transform_excel2xml(filename='corpus1_labelled.csv',filename_out=''):
     #Exception #1
     #remove,action,smoke,,alarm,object,and,conjunction,install,action,combo,,alarm,object,,,,,,,,
     #if blank space after term then assume combo entity so label both as same (need to get final)
+#    from cluster_run import preclean_blob
     all_labels=[]
     
     SAMPLES=NestedDict()
@@ -97,7 +98,7 @@ def transform_excel2xml(filename='corpus1_labelled.csv',filename_out=''):
         elif not fields[1]:
             print "Skipping bad training line: "+str(line)
             continue
-        
+    
         liner="<TokenSequence>"
         term=True #flipflop
         for i,cell in enumerate(fields):
